@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\bin\Debug\lab2-task1wf.exe.config
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\bin\Debug\lab2-task1wf.exe
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\bin\Debug\lab2-task1wf.pdb
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2_task1wf.First.resources
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2_task1wf.Properties.Resources.resources
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2-task1wf.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2-task1wf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2-task1wf.exe
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2-task1wf.pdb
+C:\Users\User\source\repos\lab2-task1wf\lab2-task1wf\obj\Debug\lab2-task1wf.csprojAssemblyReference.cache
