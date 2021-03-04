@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lav2-task3/1.0.0": {
+        "runtime": {
+          "lav2-task3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lav2-task3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
